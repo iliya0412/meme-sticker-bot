@@ -1,5 +1,3 @@
-aiogram
+aiogram==2.25.2
 openai
-pillow
-aiohttp
-python-dotenv
+Pillow
