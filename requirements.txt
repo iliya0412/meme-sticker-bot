@@ -1,0 +1,5 @@
+aiogram
+openai
+pillow
+aiohttp
+python-dotenv
